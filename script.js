@@ -7,7 +7,7 @@ var isSpecChar;
 var generateBtn = document.querySelector("#generate");
 
 
-//set the process to get the correct user input for letterCounts. running for loop to re-check until letterCounts is correct.
+//set the process to get the correct user input for letterCounts. running for loop to re-check until letterCounts is correct. 
 function getLetterCounts () {
   
   var correctValue;
